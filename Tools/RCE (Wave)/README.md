@@ -1,6 +1,6 @@
-Esta es una herramienta programada en Python3 que permite utilizar una backdoor dentro de la máquina wave para la ejecución de commandos remotos.
+Este es un script programado en Python3 que permite utilizar una backdoor dentro de la máquina wave para la ejecución de commandos remotos.
 
-La herramienta está adaptada para poder replicar y auditar este tipo de comportamientos en cualquier entorno controlado o laboratorio de pruebas.
+El script está adaptado para poder replicar y auditar este tipo de comportamientos en cualquier entorno controlado o laboratorio de pruebas.
 
 # [+] Ejemplo de uso:
 

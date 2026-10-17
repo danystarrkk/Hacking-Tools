@@ -1,5 +1,5 @@
-Esta Herramienta creada en Python3 para poder realizar el ataque de fuerza bruta al panel de la maquina Griffin.
-La herramienta esta adaptada para que el ataque se pueda realizar en cualquier entorno de red.
+Este script creado en Python3 para poder realizar el ataque de fuerza bruta al panel de la maquina Griffin.
+El script esta adaptado para que el ataque se pueda realizar en cualquier entorno de red.
 
 # [+] Uso:
 

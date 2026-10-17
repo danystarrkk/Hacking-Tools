@@ -1,6 +1,6 @@
-Esta es una herramienta programada en Python3 que permite realizar una enumeración de identificadores (IDs) mediante consultas estructuradas (GraphQL) para identificar usuarios activos y extraer sus respectivas credenciales (usuario y contraseña).
+Este es un script programado en Python3 que permite realizar una enumeración de identificadores (IDs) mediante consultas estructuradas (GraphQL) para identificar usuarios activos y extraer sus respectivas credenciales (usuario y contraseña).
 
-La herramienta está adaptada para poder replicar y auditar este tipo de comportamientos en cualquier entorno controlado o laboratorio de pruebas.
+El script está adaptado para poder replicar y auditar este tipo de comportamientos en cualquier entorno controlado o laboratorio de pruebas.
 
 # [+] Uso:
 

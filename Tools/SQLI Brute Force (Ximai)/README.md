@@ -1,5 +1,5 @@
-Esta es una herramienta programada en Python3 que nos permite realizar un ataque de fuerza bruta y leer diferentes archivos de la máquina victima.
-La herramienta es adaptada para poder replicar el ataque en cualquier entorno controlado.
+Este es un script programado en Python3 que nos permite realizar un ataque de fuerza bruta y leer diferentes archivos de la máquina victima.
+El script es adaptado para poder replicar el ataque en cualquier entorno controlado.
 
 # [+] Uso:
 
